@@ -15,6 +15,6 @@
 
 <br />
 
-|       Project       |                   Link                   | State |   Date   |
-| :-----------------: | :--------------------------------------: | :---: | :------: |
-| JavaScript Drum Kit | [✏️](./01%20-%20JavaScript%20Drum%20Kit) |  ☑️   | 23.01.19 |
+|       Project       |               Link               | State |   Date   |
+| :-----------------: | :------------------------------: | :---: | :------: |
+| JavaScript Drum Kit | [✏️](./JavaScript%20Drum%20Kit/) |  ☑️   | 23.01.19 |
