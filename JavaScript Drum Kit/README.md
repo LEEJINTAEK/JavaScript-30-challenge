@@ -4,6 +4,14 @@
 
 ## 소개
 
+<br />
+
+**해당 키를 누르면 소리가 나는 Drum Kit 입니다**
+
+[구경하러 바로 가기](https://roaring-stroopwafel-8acb12.netlify.app/)
+
+<br />
+
 ## JavaScript Code
 
 <br />
