@@ -1,4 +1,4 @@
-# Web Clock
+# CSS Variables
 
 <img src="./control.PNG" width="500px" height="330px">
 
