@@ -23,3 +23,4 @@
 |  JS and CSS Clock   |  [✏️](./JS%20and%20CSS%20Clock/)  |  ☑️   | 23.01.20 |
 |    CSS Variables    |     [✏️](./CSS%20Variables/)      |  ☑️   | 23.01.21 |
 | Array Cardio Day 1  | [✏️](./Array%20Cardio%20Day%201/) |  ☑️   | 23.01.22 |
+| Flex Panel Gallery  |  [✏️](./Flex%20Panel%20Gallery/)  |  ☑️   | 23.01.23 |
