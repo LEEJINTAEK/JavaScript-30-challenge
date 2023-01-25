@@ -25,3 +25,4 @@
 | Array Cardio Day 1  | [✏️](./Array%20Cardio%20Day%201/) |  ☑️   | 23.01.22 |
 | Flex Panel Gallery  |  [✏️](./Flex%20Panel%20Gallery/)  |  ☑️   | 23.01.23 |
 |     Type Ahead      |       [✏️](./Type%20Ahead/)       |  ☑️   | 23.01.24 |
+|  Array Cardio Day2  | [✏️](./Array%20Cardio%20Day%202/) |  ☑️   | 23.01.25 |
