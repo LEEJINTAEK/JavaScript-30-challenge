@@ -27,3 +27,4 @@
 |      Type Ahead       |        [✏️](./Type%20Ahead/)         |  ☑️   | 23.01.24 |
 |   Array Cardio Day2   |  [✏️](./Array%20Cardio%20Day%202/)   |  ☑️   | 23.01.25 |
 | Fun with HTML5 Canvas | [✏️](./Fun%20with%20HTML5%20Canvas/) |  ☑️   | 23.01.26 |
+| Dev Tools Domination  |  [✏️](./Dev%20Tools%20Domination/)   |  ☑️   | 23.01.27 |
