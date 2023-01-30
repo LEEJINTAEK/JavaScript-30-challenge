@@ -30,3 +30,4 @@
 |      Dev Tools Domination       |        [✏️](./Dev%20Tools%20Domination/)         |  ☑️   | 23.01.27 |
 | Hold Shift and Check Checkboxes | [✏️](./Hold%20Shift%20and%20Check%20Checkboxes/) |  ☑️   | 23.01.28 |
 |       Custom Video Player       |         [✏️](./Custom%20Video%20Player/)         |  ☑️   | 23.01.29 |
+|     Key Sequence Detection      |       [✏️](./Key%20Sequence%20Detection/)        |  ☑️   | 23.01.30 |
