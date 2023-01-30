@@ -8,6 +8,8 @@
 
 **지정된 단어 입력시 유니콘 등장!!**
 
+[구경하러 바로 가기](https://illustrious-sprinkles-a8fe13.netlify.app/)
+
 <br />
 
 ## JavaScript Code
