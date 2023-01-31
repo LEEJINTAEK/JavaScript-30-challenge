@@ -31,3 +31,4 @@
 | Hold Shift and Check Checkboxes | [✏️](./Hold%20Shift%20and%20Check%20Checkboxes/) |  ☑️   | 23.01.28 |
 |       Custom Video Player       |         [✏️](./Custom%20Video%20Player/)         |  ☑️   | 23.01.29 |
 |     Key Sequence Detection      |       [✏️](./Key%20Sequence%20Detection/)        |  ☑️   | 23.01.30 |
+|       Slide in on Scroll        |        [✏️](./Slide%20in%20on%20Scroll/)         |  ☑️   | 23.01.31 |
