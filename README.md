@@ -17,18 +17,19 @@
 
 <br />
 
-|             Project             |                       Link                       | State |   Date   |
-| :-----------------------------: | :----------------------------------------------: | :---: | :------: |
-|       JavaScript Drum Kit       |         [✏️](./JavaScript%20Drum%20Kit/)         |  ☑️   | 23.01.19 |
-|        JS and CSS Clock         |         [✏️](./JS%20and%20CSS%20Clock/)          |  ☑️   | 23.01.20 |
-|          CSS Variables          |             [✏️](./CSS%20Variables/)             |  ☑️   | 23.01.21 |
-|       Array Cardio Day 1        |        [✏️](./Array%20Cardio%20Day%201/)         |  ☑️   | 23.01.22 |
-|       Flex Panel Gallery        |         [✏️](./Flex%20Panel%20Gallery/)          |  ☑️   | 23.01.23 |
-|           Type Ahead            |              [✏️](./Type%20Ahead/)               |  ☑️   | 23.01.24 |
-|        Array Cardio Day2        |        [✏️](./Array%20Cardio%20Day%202/)         |  ☑️   | 23.01.25 |
-|      Fun with HTML5 Canvas      |       [✏️](./Fun%20with%20HTML5%20Canvas/)       |  ☑️   | 23.01.26 |
-|      Dev Tools Domination       |        [✏️](./Dev%20Tools%20Domination/)         |  ☑️   | 23.01.27 |
-| Hold Shift and Check Checkboxes | [✏️](./Hold%20Shift%20and%20Check%20Checkboxes/) |  ☑️   | 23.01.28 |
-|       Custom Video Player       |         [✏️](./Custom%20Video%20Player/)         |  ☑️   | 23.01.29 |
-|     Key Sequence Detection      |       [✏️](./Key%20Sequence%20Detection/)        |  ☑️   | 23.01.30 |
-|       Slide in on Scroll        |        [✏️](./Slide%20in%20on%20Scroll/)         |  ☑️   | 23.01.31 |
+|             Project              |                       Link                       | State |   Date   |
+| :------------------------------: | :----------------------------------------------: | :---: | :------: |
+|       JavaScript Drum Kit        |         [✏️](./JavaScript%20Drum%20Kit/)         |  ☑️   | 23.01.19 |
+|         JS and CSS Clock         |         [✏️](./JS%20and%20CSS%20Clock/)          |  ☑️   | 23.01.20 |
+|          CSS Variables           |             [✏️](./CSS%20Variables/)             |  ☑️   | 23.01.21 |
+|        Array Cardio Day 1        |        [✏️](./Array%20Cardio%20Day%201/)         |  ☑️   | 23.01.22 |
+|        Flex Panel Gallery        |         [✏️](./Flex%20Panel%20Gallery/)          |  ☑️   | 23.01.23 |
+|            Type Ahead            |              [✏️](./Type%20Ahead/)               |  ☑️   | 23.01.24 |
+|        Array Cardio Day2         |        [✏️](./Array%20Cardio%20Day%202/)         |  ☑️   | 23.01.25 |
+|      Fun with HTML5 Canvas       |       [✏️](./Fun%20with%20HTML5%20Canvas/)       |  ☑️   | 23.01.26 |
+|       Dev Tools Domination       |        [✏️](./Dev%20Tools%20Domination/)         |  ☑️   | 23.01.27 |
+| Hold Shift and Check Checkboxes  | [✏️](./Hold%20Shift%20and%20Check%20Checkboxes/) |  ☑️   | 23.01.28 |
+|       Custom Video Player        |         [✏️](./Custom%20Video%20Player/)         |  ☑️   | 23.01.29 |
+|      Key Sequence Detection      |       [✏️](./Key%20Sequence%20Detection/)        |  ☑️   | 23.01.30 |
+|        Slide in on Scroll        |        [✏️](./Slide%20in%20on%20Scroll/)         |  ☑️   | 23.01.31 |
+| JavaScript References Vs Copying | [✏️](./JavaScript%20References%20VS%20Copying/)  |  ☑️   | 23.02.01 |
