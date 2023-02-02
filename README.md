@@ -33,3 +33,4 @@
 |      Key Sequence Detection      |       [✏️](./Key%20Sequence%20Detection/)        |  ☑️   | 23.01.30 |
 |        Slide in on Scroll        |        [✏️](./Slide%20in%20on%20Scroll/)         |  ☑️   | 23.01.31 |
 | JavaScript References Vs Copying | [✏️](./JavaScript%20References%20VS%20Copying/)  |  ☑️   | 23.02.01 |
+|           LocalStorage           |              [✏️](./LocalStorage/)               |  ☑️   | 23.02.02 |
