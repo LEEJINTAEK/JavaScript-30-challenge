@@ -35,3 +35,4 @@
 | JavaScript References Vs Copying | [✏️](./JavaScript%20References%20VS%20Copying/)  |  ☑️   | 23.02.01 |
 |           LocalStorage           |              [✏️](./LocalStorage/)               |  ☑️   | 23.02.02 |
 |        Mouse Move Shadow         |          [✏️](./Mouse%20Move%20Shadow/)          |  ☑️   | 23.02.03 |
+|      Sort Without Articles       |        [✏️](./Sort%20Without%20Articles/)        |  ☑️   | 23.02.04 |
