@@ -36,3 +36,4 @@
 |           LocalStorage           |              [✏️](./LocalStorage/)               |  ☑️   | 23.02.02 |
 |        Mouse Move Shadow         |          [✏️](./Mouse%20Move%20Shadow/)          |  ☑️   | 23.02.03 |
 |      Sort Without Articles       |        [✏️](./Sort%20Without%20Articles/)        |  ☑️   | 23.02.04 |
+|   Adding Up Times with Reduce    |   [✏️](./Adding%20Up%20Times%20with%20Reduce/)   |  ☑️   | 23.02.05 |
