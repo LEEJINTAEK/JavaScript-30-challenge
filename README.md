@@ -38,3 +38,4 @@
 |      Sort Without Articles       |        [✏️](./Sort%20Without%20Articles/)        |  ☑️   | 23.02.04 |
 |   Adding Up Times with Reduce    |   [✏️](./Adding%20Up%20Times%20with%20Reduce/)   |  ☑️   | 23.02.05 |
 |          **Webcam Fun**          |              [✏️](./Webcam%20Fun/)               |  ❌   | 23.02.06 |
+|       **Speech Detection**       |           [✏️](./Speech%20Detection/)            |  ❌   | 23.02.07 |
