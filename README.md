@@ -40,3 +40,4 @@
 |          **Webcam Fun**          |              [✏️](./Webcam%20Fun/)               |  ❌   | 23.02.06 |
 |       **Speech Detection**       |           [✏️](./Speech%20Detection/)            |  ❌   | 23.02.07 |
 |         **Gelolcation**          |               [✏️](./Geolocation/)               |  ☑️   | 23.02.08 |
+|  Follow Along Link Highlighter   |   [✏️](./Follow%20Along%20Link%20Highlighter/)   |  ☑️   | 23.02.09 |
