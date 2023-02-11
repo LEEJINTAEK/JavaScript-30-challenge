@@ -42,3 +42,4 @@
 |         **Gelolcation**          |               [✏️](./Geolocation/)               |  ☑️   | 23.02.08 |
 |  Follow Along Link Highlighter   |   [✏️](./Follow%20Along%20Link%20Highlighter/)   |  ☑️   | 23.02.09 |
 |         Speech Synthesis         |           [✏️](./Speech%20Synthesis/)            |  ☑️   | 23.02.10 |
+|            Sticky Nav            |              [✏️](./Sticky%20Nav/)               |  ☑️   | 23.02.11 |
