@@ -43,4 +43,5 @@
 |  Follow Along Link Highlighter   |             [✏️](./Follow%20Along%20Link%20Highlighter/)             |  ☑️   | 23.02.09 |
 |         Speech Synthesis         |                     [✏️](./Speech%20Synthesis/)                      |  ☑️   | 23.02.10 |
 |            Sticky Nav            |                        [✏️](./Sticky%20Nav/)                         |  ☑️   | 23.02.11 |
-|     Event Capture , Bubbling     | [✏️](./Event%20Capture%2C%20Propagation%2C%20Bubbling%20and%20Once/) |  ☑️   | 23.02.12 |
+|     Event Capture, Bubbling      | [✏️](./Event%20Capture%2C%20Propagation%2C%20Bubbling%20and%20Once/) |  ☑️   | 23.02.12 |
+|     Stripe Follow Along Nav      |                [✏️](./Stripe%20Follow%20Along%20Nav/)                |  ☑️   | 23.02.13 |
