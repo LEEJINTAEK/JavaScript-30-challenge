@@ -46,3 +46,4 @@
 |     Event Capture, Bubbling      | [✏️](./Event%20Capture%2C%20Propagation%2C%20Bubbling%20and%20Once/) |  ☑️   | 23.02.12 |
 |     Stripe Follow Along Nav      |                [✏️](./Stripe%20Follow%20Along%20Nav/)                |  ☑️   | 23.02.13 |
 |          Click and Drag          |                     [✏️](./Click%20and%20Drag/)                      |  ☑️   | 23.02.14 |
+|      Video Speed Controller      |                 [✏️](./Video%20Speed%20Controller//)                 |  ☑️   | 23.02.15 |
