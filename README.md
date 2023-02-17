@@ -47,3 +47,5 @@
 |     Stripe Follow Along Nav      |                [✏️](./Stripe%20Follow%20Along%20Nav/)                |  ☑️   | 23.02.13 |
 |          Click and Drag          |                     [✏️](./Click%20and%20Drag/)                      |  ☑️   | 23.02.14 |
 |      Video Speed Controller      |                 [✏️](./Video%20Speed%20Controller//)                 |  ☑️   | 23.02.15 |
+|         Countdown Timer          |                      [✏️](./Countdown%20Timer/)                      |  ☑️   | 23.02.16 |
+|           Whack A Mole           |                      [✏️](./Whack%20A%20Mole/)                       |  ☑️   | 23.02.17 |
